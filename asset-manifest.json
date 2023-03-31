@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/simple-react-blog/static/css/main.1072146d.css",
+    "main.js": "/simple-react-blog/static/js/main.c80a8124.js",
+    "static/media/topright.jpeg": "/simple-react-blog/static/media/topright.370bcbafa65268d3948f.jpeg",
+    "index.html": "/simple-react-blog/index.html",
+    "main.1072146d.css.map": "/simple-react-blog/static/css/main.1072146d.css.map",
+    "main.c80a8124.js.map": "/simple-react-blog/static/js/main.c80a8124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1072146d.css",
+    "static/js/main.c80a8124.js"
+  ]
+}
